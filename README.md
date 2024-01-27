@@ -1,5 +1,5 @@
 # DER-Hosting-Capacity-Analysis
-This is my first repositry representing the Analysis of Low Voltage Distribution System with the penetration of PV generation.
+This is my first repositry representing and developing understanding of the Low Voltage Distribution System Analysis with the penetration of PV generation.
 
 The analysis is carried out in OpenDSS with VBA-COM interface by using real low voltage network IEEE European Low Voltage feeder. The results display the voltage variation at feeder head and feeder end as well.
 
